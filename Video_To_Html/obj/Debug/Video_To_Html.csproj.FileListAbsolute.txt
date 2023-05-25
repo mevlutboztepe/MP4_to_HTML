@@ -1,0 +1,10 @@
+C:\Users\mevlut.boztepe\source\repos\Video_To_Html\Video_To_Html\bin\Debug\Video_To_Html.exe.config
+C:\Users\mevlut.boztepe\source\repos\Video_To_Html\Video_To_Html\bin\Debug\Video_To_Html.exe
+C:\Users\mevlut.boztepe\source\repos\Video_To_Html\Video_To_Html\bin\Debug\Video_To_Html.pdb
+C:\Users\mevlut.boztepe\source\repos\Video_To_Html\Video_To_Html\obj\Debug\Video_To_Html.csproj.AssemblyReference.cache
+C:\Users\mevlut.boztepe\source\repos\Video_To_Html\Video_To_Html\obj\Debug\Video_To_Html.Form1.resources
+C:\Users\mevlut.boztepe\source\repos\Video_To_Html\Video_To_Html\obj\Debug\Video_To_Html.Properties.Resources.resources
+C:\Users\mevlut.boztepe\source\repos\Video_To_Html\Video_To_Html\obj\Debug\Video_To_Html.csproj.GenerateResource.cache
+C:\Users\mevlut.boztepe\source\repos\Video_To_Html\Video_To_Html\obj\Debug\Video_To_Html.csproj.CoreCompileInputs.cache
+C:\Users\mevlut.boztepe\source\repos\Video_To_Html\Video_To_Html\obj\Debug\Video_To_Html.exe
+C:\Users\mevlut.boztepe\source\repos\Video_To_Html\Video_To_Html\obj\Debug\Video_To_Html.pdb
